@@ -1,4 +1,4 @@
-# cubase-project-x
+# CUBASE PROJECT-X
 Cubase project for testing propose
 
 - This new comments is for branch testing adding a new commit to the project files
